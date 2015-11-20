@@ -20,7 +20,7 @@ When you send your pull request please ensure you do the following first.
 
 ## Project Status
 
-Project board at: [River Styz Waffle Board](https://waffle.io/river-styx/river-styx.core)
+Project board at: [River Styx Waffle Board](https://waffle.io/river-styx/river-styx.core)
 
 ### Work items
 
