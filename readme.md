@@ -3,8 +3,9 @@
 Stub read me file for Project: River Styx.
 
 ## Status
-
-[![Build Status](https://travis-ci.org/river-styx/river-styx.core.svg?branch=master)](https://travis-ci.org/river-styx/river-styx.core)
+|	Linux	|	windows	|
+|-----------|:---------:|
+|[![Build Status](https://travis-ci.org/river-styx/river-styx.core.svg?branch=master)](https://travis-ci.org/river-styx/river-styx.core)|[![Build status](https://ci.appveyor.com/api/projects/status/noxanh6au9ijeeuf?svg=true)](https://ci.appveyor.com/project/dmportella/river-styx-core)|
 
 ## Contributions
 
