@@ -2,6 +2,14 @@
 
 Stub read me file for Project: River Styx.
 
+## Status
+
+[![Build Status](https://travis-ci.org/river-styx/river-styx.core.svg?branch=master)](https://travis-ci.org/river-styx/river-styx.core)
+
+## Contributions
+
+stub
+
 ## License
 
 See license file included in the repository.
