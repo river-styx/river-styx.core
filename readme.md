@@ -22,13 +22,13 @@ stub
 
 ## Project Status
 
-|	Work items	|||
-|-----------|:-------------:|-------|
-|[![Stories in ready](https://badge.waffle.io/river-styx/river-styx.core.png?label=ready&title=Ready)](http://waffle.io/river-styx/river-styx.core)|[![Stories in progress](https://badge.waffle.io/river-styx/river-styx.core.png?label=In%20Progress&title=In%20Progress)](http://waffle.io/river-styx/river-styx.core)|[![Stories in completed](https://badge.waffle.io/river-styx/river-styx.core.png?label=Completed&title=Completed)](http://waffle.io/river-styx/river-styx.core)|
+Project board at: https://waffle.io/river-styx/river-styx.core
+
+### Work items
+
+[![Stories in ready](https://badge.waffle.io/river-styx/river-styx.core.png?label=ready&title=Ready)](http://waffle.io/river-styx/river-styx.core)[![Stories in progress](https://badge.waffle.io/river-styx/river-styx.core.png?label=In%20Progress&title=In%20Progress)](http://waffle.io/river-styx/river-styx.core)[![Stories in completed](https://badge.waffle.io/river-styx/river-styx.core.png?label=Completed&title=Completed)](http://waffle.io/river-styx/river-styx.core)
 
 ### Project throughput
-
-Project board at: https://waffle.io/river-styx/river-styx.core
 
 [![Throughput Graph](https://graphs.waffle.io/river-styx/river-styx.core/throughput.svg)](https://waffle.io/river-styx/river-styx.core/metrics)
 
