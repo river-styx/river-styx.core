@@ -1,0 +1,20 @@
+{
+  "name": "river-styx",
+  "version": "0.0.1",
+  "description": "River styx core allows you to subscribe to event types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/river-styx/river-styx.core.git"
+  },
+  "author": "daniel portella",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/river-styx/river-styx.core/issues"
+  },
+  "homepage": "https://github.com/river-styx/river-styx.core#readme"
+}
