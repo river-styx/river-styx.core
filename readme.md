@@ -8,21 +8,19 @@ Stub read me file for Project: River Styx.
 |-----------|:---------:|
 |[![Build Status](https://travis-ci.org/river-styx/river-styx.core.svg?branch=master)](https://travis-ci.org/river-styx/river-styx.core)|[![Build status](https://ci.appveyor.com/api/projects/status/noxanh6au9ijeeuf?svg=true)](https://ci.appveyor.com/project/dmportella/river-styx-core)|
 
-## Support Architectures
-
-stub
-
-## How to Install
-
-stub
-
 ## Contributions
 
-stub
+We encourage contributions and will review all pull requests and discuss them.
+
+When you send your pull request please ensure you do the following first.
+
+* Please sign the CLA for river-styx at: [CLA](https://cla-assistant.io/river-styx/river-styx.core) 
+* Collapse your commits into a single commit. `git rebase -i`. You can force update your pull request.
+* Make sure you include new test cases and ensure all tests are passing.
 
 ## Project Status
 
-Project board at: https://waffle.io/river-styx/river-styx.core
+Project board at: [River Styz Waffle Board](https://waffle.io/river-styx/river-styx.core)
 
 ### Work items
 
