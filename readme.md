@@ -2,14 +2,37 @@
 
 Stub read me file for Project: River Styx.
 
-## Status
-|	Linux	|	windows	|
+## Build Status
+
+|	Linux	|	Windows	|
 |-----------|:---------:|
 |[![Build Status](https://travis-ci.org/river-styx/river-styx.core.svg?branch=master)](https://travis-ci.org/river-styx/river-styx.core)|[![Build status](https://ci.appveyor.com/api/projects/status/noxanh6au9ijeeuf?svg=true)](https://ci.appveyor.com/project/dmportella/river-styx-core)|
 
+## Support Architectures
+
+stub
+
+## How to Install
+
+stub
+
+
+##
 ## Contributions
 
 stub
+
+## Project Status
+
+|	Work items	|
+|-----------|:-------------:|-------|
+|[![Stories in ready](https://badge.waffle.io/river-styx/river-styx.core.png?label=ready&title=Ready)](http://waffle.io/river-styx/river-styx.core)|[![Stories in progress](https://badge.waffle.io/river-styx/river-styx.core.png?label=in progress&title=In Progress)](http://waffle.io/river-styx/river-styx.core)|[![Stories in completed](https://badge.waffle.io/river-styx/river-styx.core.png?label=completed&title=Completed)](http://waffle.io/river-styx/river-styx.core)|
+
+### Project throughput
+
+Project board at: https://waffle.io/river-styx/river-styx.core
+
+[![Throughput Graph](https://graphs.waffle.io/river-styx/river-styx.core/throughput.svg)](https://waffle.io/river-styx/river-styx.core/metrics)
 
 ## License
 
