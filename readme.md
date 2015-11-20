@@ -16,17 +16,15 @@ stub
 
 stub
 
-
-##
 ## Contributions
 
 stub
 
 ## Project Status
 
-|	Work items	|
+|	Work items	|||
 |-----------|:-------------:|-------|
-|[![Stories in ready](https://badge.waffle.io/river-styx/river-styx.core.png?label=ready&title=Ready)](http://waffle.io/river-styx/river-styx.core)|[![Stories in progress](https://badge.waffle.io/river-styx/river-styx.core.png?label=in progress&title=In Progress)](http://waffle.io/river-styx/river-styx.core)|[![Stories in completed](https://badge.waffle.io/river-styx/river-styx.core.png?label=completed&title=Completed)](http://waffle.io/river-styx/river-styx.core)|
+|[![Stories in ready](https://badge.waffle.io/river-styx/river-styx.core.png?label=ready&title=Ready)](http://waffle.io/river-styx/river-styx.core)|[![Stories in progress](https://badge.waffle.io/river-styx/river-styx.core.png?label=In%20Progress&title=In%20Progress)](http://waffle.io/river-styx/river-styx.core)|[![Stories in completed](https://badge.waffle.io/river-styx/river-styx.core.png?label=Completed&title=Completed)](http://waffle.io/river-styx/river-styx.core)|
 
 ### Project throughput
 
