@@ -1,1 +1,1 @@
-console.log("ddasdasd");
+console.log('ddasdasd');
