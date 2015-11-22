@@ -1,20 +1,31 @@
 {
-  "name": "river-styx",
+  "name": "river-styx.core",
   "version": "0.0.1",
   "description": "River styx core allows you to subscribe to event types.",
   "main": "index.js",
   "scripts": {
-    "test": "node tests.js",
+    "test": "grunt",
     "start": "node index.js"
+  },
+  "devDependencies": {
+    "eslint": "^1.9.0",
+    "eslint-config-airbnb": "^1.0.0",
+    "expect.js": "~0.3.1",
+    "grunt": "^0.4.4",
+    "grunt-eslint": "^17.3.1",
+    "grunt-mocha-cli": "~1.7.0",
+    "load-grunt-tasks": "~0.4.0",
+    "mocha": "~1.12.1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/river-styx/river-styx.core.git"
   },
-  "author": "daniel portella",
+  "author": "Steve Elliott",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/river-styx/river-styx.core/issues"
   },
-  "homepage": "https://github.com/river-styx/river-styx.core#readme"
+  "homepage": "https://github.com/river-styx/river-styx.core#readme",
+  "engines": { "node" : ">=4.2.2" }
 }
