@@ -14,8 +14,9 @@ test_script:
   # Output useful info for debugging.
   - node --version
   - npm --version
+  - npm install -g grunt-cli
   # run tests
-  - npm test
+  - grunt
   
 # Don't actually build.
 build: off
