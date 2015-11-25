@@ -1,1 +1,3 @@
-console.log('ddasdasd');
+module.exports = {
+	Client: require('./lib/client')
+};
