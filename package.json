@@ -27,5 +27,11 @@
     "url": "https://github.com/river-styx/river-styx.core/issues"
   },
   "homepage": "https://github.com/river-styx/river-styx.core#readme",
-  "engines": { "node" : ">=4.2.2" }
+  "engines": {
+    "node": ">=4.2.2"
+  },
+  "dependencies": {
+    "amqp": "^0.2.4",
+    "lodash": "^3.10.1"
+  }
 }
